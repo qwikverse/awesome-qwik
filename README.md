@@ -16,6 +16,10 @@ A curated list of awesome things related to Resumable Framework - <a href='https
 <a href='https://github.com/sindresorhus/awesome'>
 <img src='https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg' alt='Awesome'>
 </a>
+<a href='http://creativecommons.org/publicdomain/zero/1.0/'>
+<img src='https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat-square' alt='Awesome'>
+</a>
+
 </p>
 
 <details>
