@@ -18,18 +18,23 @@ A curated list of awesome things related to Resumable Framework - <a href='https
 </a>
 </p>
 
-# Table of Contents
-- [Table of Contents](#table-of-contents)
-  - [Resources](#resources)
-    - [Official Resources](#official-resources)
-    - [External Resources](#external-resources)
-  - [Get Started](#get-started)
-  - [Videos](#videos)
-  - [Podcasts](#podcasts)
-  - [Presentation](#presentation)
-  - [Tutorials](#tutorials)
-  - [Examples](#examples)
-  - [Blog Posts](#blog-posts)
+<details>
+<summary>Table of Contents</summary>
+
+- [Resources](#resources)
+  - [Official Resources](#official-resources)
+  - [External Resources](#external-resources)
+- [Get Started](#get-started)
+- [Videos](#videos)
+- [Podcasts](#podcasts)
+- [Presentation](#presentation)
+- [Tutorials](#tutorials)
+- [Examples](#examples)
+- [Blog Posts](#blog-posts)
+- [Contributing](#contributing)
+
+</details>
+
 ## Resources
 
 ### Official Resources
@@ -65,7 +70,7 @@ A curated list of awesome things related to Resumable Framework - <a href='https
 - [Après Angular : place à Qwik!](https://www.youtube.com/watch?v=Ts2IWXMYiXk)
 - [ 🇪🇸 Qwik Framework, Un nuevo Framework Super Rápido (Lazy Loading)](https://www.youtube.com/watch?v=kT-Y17mEUZs)
 - [ 🇪🇸 Qwik - nuevo framework para Js)](https://www.youtube.com/watch?v=GzUMPnsDopM)
-
+- [Qwik Core Developers Training](https://youtu.be/Mi7udzhcCDQ)
 ## Podcasts
 - [Podcasts](https://github.com/qwik-design/)
 
@@ -81,6 +86,9 @@ A curated list of awesome things related to Resumable Framework - <a href='https
 ## Blog Posts
 - [Posts](https://github.com/qwik-design/)
 
+
+## Contributing
+Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](CONTRIBUTING.md). Thank you!.
 
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
