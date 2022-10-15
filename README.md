@@ -97,7 +97,12 @@
 
 ## Blog Posts
 - [Hydration is Pure Overhead](https://www.builder.io/blog/hydration-is-pure-overhead)
-- 
+- [Why Progressive Hydration is Harder than You Think](https://www.builder.io/blog/why-progressive-hydration-is-harder-than-you-think)
+- [Why is Builder.io creating Qwik and Partytown?](https://www.builder.io/blog/why-is-builderio-creating-qwik-and-partytown)
+- [Don't blame the developer for what the frameworks did!](https://www.builder.io/blog/hydration-is-pure-overhead)
+- [Our current frameworks are O(n); we need O(1)](https://www.builder.io/blog/our-current-frameworks-are-on-we-need-o1)
+- [Qwik and Qwik City have reached beta!](https://www.builder.io/blog/qwik-and-qwik-city-have-reached-beta)
+- [WStreaming: is it worth it?](hbuilder.io/blog/streaming-is-it-worth-it)
 - [A first look at Qwik - the HTML first framework](https://dev.to/builderio/a-first-look-at-qwik-the-html-first-framework-af)
 - [Death by Closure (and how Qwik solves it)](https://dev.to/mhevery/death-by-closure-and-how-qwik-solves-it-44jj)
 - [HTML-first, JavaScript last: the secret to web speed!](https://dev.to/builderio/html-first-javascript-last-the-secret-to-web-speed-4ic9)
