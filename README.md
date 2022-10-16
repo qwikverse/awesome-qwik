@@ -54,13 +54,12 @@
 - [Release](https://github.com/BuilderIO/qwik/releases)
 - [Twitter](https://twitter.com/QwikDev)
 - [Discord](https://discord.com/invite/bNVSQmPzqy)
+- [Performance Insights](https://www.builder.io/c/performance-insights)
 
 ### External Resources
-
 - [Awesome Qwik](https://github.com/qwik-design/awesome-qwik)
 
 ## Get Started
-
 - [create-qwik-app](https://qwik.builder.io/docs/getting-started/#run-the-qwik-cli-in-your-shell) - Scaffolding Your First Qwik Project.
 - [Stackblitz Qwik + Vite](https://qwik.new/) - Scaffolding Your First Qwik Project inside Stackblitz.
 
@@ -69,6 +68,7 @@
 - [Qwik Core Developers Training](https://youtu.be/Mi7udzhcCDQ)
 
 ## Videos
+- [Qwik: A no hydration instant on personalized web applications by Misko Hevery](https://youtu.be/Zddw6qy5pf0)
 - [Exploring Qwik, the Resumable Framework](https://youtu.be/gT5NWKZZPQM)
 - [Building Qwik w/ Misko Hevery](https://youtu.be/lY6e7Hw4uVo)
 - [Qwik… the world's first O(1) JavaScript framework?](https://www.youtube.com/watch?v=x2eF3YLiNhY)
