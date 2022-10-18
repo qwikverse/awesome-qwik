@@ -61,6 +61,7 @@
 
 ## Get Started
 - [create-qwik-app](https://qwik.builder.io/docs/getting-started/#run-the-qwik-cli-in-your-shell) - Scaffolding Your First Qwik Project.
+- [Clone from Github](https://github.com/mhevery/qwik-starter) - Qwik Starter.
 - [Stackblitz Qwik + Vite](https://qwik.new/) - Scaffolding Your First Qwik Project inside Stackblitz.
 
 ## Tutorials
@@ -119,6 +120,7 @@
 - [Image Models](https://www.imgmodels.com/)
 - [Storefront Starter](hhttps://qwik-storefront.vendure.io/) / [Github](https://github.com/vendure-ecommerce/storefront-qwik-starter)
 - [The Agency](https://github.com/gilf/the-agency-qwik)
+- [Qwik Dream Demo](https://qwik-dream-demo.pages.dev/)
 
 ## Related Projects
 - [Vite](https://vitejs.dev/)
