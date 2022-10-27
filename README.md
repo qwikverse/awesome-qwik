@@ -34,6 +34,7 @@
 - [Podcasts](#podcasts)
 - [Presentation](#presentation)
 - [Blog Posts](#blog-posts)
+- [Library](#library)
 - [Qwik Sites/Projects](#qwik-sitesprojects)
 - [Related Projects](#related-projects)
 - [Contributing](#contributing)
@@ -58,6 +59,8 @@
 
 ### External Resources
 - [Awesome Qwik](https://github.com/qwik-design/awesome-qwik)
+- [Best Practices](./BEST_PRACTICES.md)
+- [VS Code Qwik Snippets](https://marketplace.visualstudio.com/items?itemName=johnreemar.vscode-qwik-snippets)
 
 ## Get Started
 - [create-qwik-app](https://qwik.builder.io/docs/getting-started/#run-the-qwik-cli-in-your-shell) - Scaffolding Your First Qwik Project.
@@ -69,6 +72,8 @@
 - [Qwik Core Developers Training](https://youtu.be/Mi7udzhcCDQ)
 
 ## Videos
+- [Exploring Qwik City w/ Adam Bradley & Manu Martínez-Almeida](https://youtu.be/XoeJisRJjlo)
+- [Why the world needs Qwik with Miško Hevery](https://youtu.be/IRw9efkn9UA)
 - [Qwik: A no hydration instant on personalized web applications by Misko Hevery](https://youtu.be/Zddw6qy5pf0)
 - [Exploring Qwik, the Resumable Framework](https://youtu.be/gT5NWKZZPQM)
 - [Building Qwik w/ Misko Hevery](https://youtu.be/lY6e7Hw4uVo)
@@ -113,6 +118,11 @@
 - [How we cut 99% of our JavaScript with Qwik + Partytown](https://dev.to/builderio/how-we-cut-99-of-our-javascript-with-qwik-partytown-3i3k)
 - [Introducing Qwik starters - get up and running with Qwik now](https://dev.to/builderio/introducing-qwik-starters-get-up-and-running-with-qwik-now-3ap2)
 
+## Library
+- [Qwik Lottie](https://www.npmjs.com/package/qwik-lottie)
+- [Qwik Rive](https://www.npmjs.com/package/qwik-rive)
+- [Qwik i18n](https://github.com/mhevery/qwik-i18n.git)
+- [Qwik Speak](https://qwik.builder.io/)
 ## Qwik Sites/Projects
 - [Qwik Home Page](https://qwik.builder.io/)
 - [Builder Home Page](https://builder.io/)
@@ -121,6 +131,8 @@
 - [Storefront Starter](hhttps://qwik-storefront.vendure.io/) / [Github](https://github.com/vendure-ecommerce/storefront-qwik-starter)
 - [The Agency](https://github.com/gilf/the-agency-qwik)
 - [Qwik Dream Demo](https://qwik-dream-demo.pages.dev/)
+- [Goshe](https://goshi.dev/)/[Github](https://github.com/voluntadpear/homepage)
+- [Qwik City Movies](https://goshi.dev/)/[Github](https://github.com/voluntadpear/homepage)
 
 ## Related Projects
 - [Vite](https://vitejs.dev/)
