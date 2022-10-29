@@ -78,7 +78,7 @@
 - [Exploring Qwik, the Resumable Framework](https://youtu.be/gT5NWKZZPQM)
 - [Building Qwik w/ Misko Hevery](https://youtu.be/lY6e7Hw4uVo)
 - [Qwik… the world's first O(1) JavaScript framework?](https://www.youtube.com/watch?v=x2eF3YLiNhY)
-- [Qwik JS and the future of frameworks](hhttps://www.youtube.com/watch?v=z14c3u9q8rI)
+- [Qwik JS and the future of frameworks](https://www.youtube.com/watch?v=z14c3u9q8rI)
 - [Is Qwik + RxJS actually possible?](https://www.youtube.com/watch?v=qKCX7Qz1oG8)
 - [Qwik-ifying React SPA to create the fastest possible website](https://www.youtube.com/watch?v=dbxP9FX5j2o)
 - [Après Angular : place à Qwik!](https://www.youtube.com/watch?v=Ts2IWXMYiXk)
@@ -102,6 +102,7 @@
 
 
 ## Blog Posts
+- [Cloudflare Workers + Qwik Microfrontends/containers](https://blog.cloudflare.com/better-micro-frontends/)
 - [Hydration is Pure Overhead](https://www.builder.io/blog/hydration-is-pure-overhead)
 - [Why Progressive Hydration is Harder than You Think](https://www.builder.io/blog/why-progressive-hydration-is-harder-than-you-think)
 - [Why is Builder.io creating Qwik and Partytown?](https://www.builder.io/blog/why-is-builderio-creating-qwik-and-partytown)
@@ -122,7 +123,8 @@
 - [Qwik Lottie](https://www.npmjs.com/package/qwik-lottie)
 - [Qwik Rive](https://www.npmjs.com/package/qwik-rive)
 - [Qwik i18n](https://github.com/mhevery/qwik-i18n.git)
-- [Qwik Speak](https://qwik.builder.io/)
+- [Qwik Speak](https://github.com/robisim74/qwik-speak)
+- [Qwik GraphQL](https://github.com/TahaSh/qwikql)
 ## Qwik Sites/Projects
 - [Qwik Home Page](https://qwik.builder.io/)
 - [Builder Home Page](https://builder.io/)
@@ -132,7 +134,9 @@
 - [The Agency](https://github.com/gilf/the-agency-qwik)
 - [Qwik Dream Demo](https://qwik-dream-demo.pages.dev/)
 - [Goshe](https://goshi.dev/)/[Github](https://github.com/voluntadpear/homepage)
-- [Qwik City Movies](https://goshi.dev/)/[Github](https://github.com/voluntadpear/homepage)
+- [Qwik City Movies](https://qwik-city-movies-wm.netlify.app/)/[Github](https://github.com/wmalarski/qwik-city-movies.git)
+
+- [Cloud Gallery - Cloudflare Workers + Qwik Microfrontend](https://cloud-gallery.web-experiments.workers.dev/)/[Github](https://github.com/cloudflare/workers-web-experiments/tree/main/cloud-gallery)
 
 ## Related Projects
 - [Vite](https://vitejs.dev/)
