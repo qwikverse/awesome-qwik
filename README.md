@@ -125,7 +125,6 @@
 - [Qwik i18n](https://github.com/mhevery/qwik-i18n.git)
 - [Qwik Speak](https://github.com/robisim74/qwik-speak)
 - [Qwik GraphQL](https://github.com/TahaSh/qwikql)
-- [Qwik Feather Icons](https://github.com/yeyon/qwik-feather-icons)
 - [Qwik Heroicons](https://github.com/elilabes/heroicons-qwik): A Qwik implementation of Heroicons.
 
 ## Qwik Sites/Projects
