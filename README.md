@@ -126,6 +126,7 @@
 - [Qwik Speak](https://github.com/robisim74/qwik-speak)
 - [Qwik GraphQL](https://github.com/TahaSh/qwikql)
 - [Qwik Heroicons](https://github.com/elilabes/heroicons-qwik): A Qwik implementation of Heroicons.
+- [Qwik Feather Icons](https://github.com/yeyon/qwik-feather-icons): Feather icons for Qwik, the Resumable Framework.
 
 ## Qwik Sites/Projects
 - [Qwik Home Page](https://qwik.builder.io/)
