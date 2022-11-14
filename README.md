@@ -120,13 +120,14 @@
 - [Introducing Qwik starters - get up and running with Qwik now](https://dev.to/builderio/introducing-qwik-starters-get-up-and-running-with-qwik-now-3ap2)
 
 ## Library
-- [Qwik Lottie](https://www.npmjs.com/package/qwik-lottie)
-- [Qwik Rive](https://www.npmjs.com/package/qwik-rive)
-- [Qwik i18n](https://github.com/mhevery/qwik-i18n.git)
-- [Qwik Speak](https://github.com/robisim74/qwik-speak)
-- [Qwik GraphQL](https://github.com/TahaSh/qwikql)
+- [Qwik Lottie](https://www.npmjs.com/package/qwik-lottie) - Lottie Qwik Component to load cool animations.
+- [Qwik Rive](https://www.npmjs.com/package/qwik-rive) - Qwik Rive Component to display Rive animations.
+- [Qwik i18n](https://github.com/mhevery/qwik-i18n.git) - Qwik Official Translation Library to do localization
+- [Qwik Speak](https://github.com/robisim74/qwik-speak) - Internationalization (i18n) library to translate texts, dates and numbers in Qwik apps
+- [Qwik GraphQL](https://github.com/TahaSh/qwikql) - A GraphQL client for Qwik framework.
 - [Qwik Heroicons](https://github.com/elilabes/heroicons-qwik): A Qwik implementation of Heroicons.
 - [Qwik Feather Icons](https://github.com/yeyon/qwik-feather-icons): Feather icons for Qwik, the Resumable Framework.
+- [Qwik Styled Vanilla-Extract](https://github.com/wmertens/qwik-styled-ve): 0-runtime CSS, Styled-Components-like (SC) API in Qwik, using vanilla-extract (VE) and stylis
 
 ## Qwik Sites/Projects
 - [Qwik Home Page](https://qwik.builder.io/)
