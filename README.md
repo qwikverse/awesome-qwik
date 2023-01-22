@@ -141,6 +141,9 @@
 - [Qwik City Movies](https://qwik-city-movies-wm.netlify.app/)/[Github](https://github.com/wmalarski/qwik-city-movies.git)
 
 - [Cloud Gallery - Cloudflare Workers + Qwik Microfrontend](https://cloud-gallery.web-experiments.workers.dev/)/[Github](https://github.com/cloudflare/workers-web-experiments/tree/main/cloud-gallery)
+- [sslink](https://github.com/Leizhenpeng/link-shorter) - 缩短网址，让分享更简单 Shorten Link, Make Sharing Simpler
+
+https://ss-link.netlify.app/
 
 ## Related Projects
 - [Vite](https://vitejs.dev/)
