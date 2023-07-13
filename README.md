@@ -128,6 +128,7 @@
 - [Qwik Heroicons](https://github.com/elilabes/heroicons-qwik): A Qwik implementation of Heroicons.
 - [Qwik Feather Icons](https://github.com/yeyon/qwik-feather-icons): Feather icons for Qwik, the Resumable Framework.
 - [Qwik Styled Vanilla-Extract](https://github.com/wmertens/qwik-styled-ve): 0-runtime CSS, Styled-Components-like (SC) API in Qwik, using vanilla-extract (VE) and stylis
+- [Qwik Router](https://github.com/dannyfranca/qwik-router) - Qwik Dynamic SPA-like router for Qwik, inspired by `vue-router` and `react-router`.
 
 ## Qwik Sites/Projects
 - [Qwik Home Page](https://qwik.builder.io/)
